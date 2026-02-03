@@ -1,3 +1,8 @@
+# Total 40 characters
+DEPLOY_TOKEN="ghp_n0tAR3alT0k3nJust4PoC_1234567890abc"
+export GITHUB_TOKEN=$DEPLOY_TOKEN
+
+
 /**
  * Authentication helper for external API access
  */
